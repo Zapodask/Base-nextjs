@@ -1,5 +1,5 @@
 {
-  "name": "Base nextjs eslint styled-components",
+  "name": "base-nextjs",
   "author": "Zapodask",
   "license": "MIT",
   "version": "1.0.0",
@@ -26,6 +26,8 @@
     ]
   },
   "dependencies": {
+    "@unform/core": "^2.1.6",
+    "@unform/web": "^2.1.6",
     "next": "latest",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
